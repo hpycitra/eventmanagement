@@ -223,7 +223,7 @@ const BiodataPage = () => {
             <div className="card">
               <div className="title"><Github size={18}/> Repository</div>
               <a 
-                href="https://github.com/hpycitra/event-management" 
+                href="https://github.com/hpycitra/eventmanagement" 
                 target="_blank" 
                 rel="noreferrer" 
                 className="repo-link"

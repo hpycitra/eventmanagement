@@ -16,6 +16,10 @@ Universitas Politeknik Harapan Bersama Tegal
 | Kampus | Jalan Mataram No.9, Kota Tegal |
 
 ---
+link youtube : https://youtu.be/6CM0EtyIxOw?si=vIe9SMva6TQtAUd4
+link deploy backend : https://eventmanagementnexaa.vercel.app/ 
+link deploy frontend : https://eventmanagementfron.vercel.app/
+link Github : https://github.com/hpycitra/eventmanagement
 
 ## Akun Login untuk Demo
 
